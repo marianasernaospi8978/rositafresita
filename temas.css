@@ -2,42 +2,44 @@
     
     width: 100%;
     height: 1400px;
-    background-color: goldenrod;
+    background-color: rgb(11, 59, 161);
 }
 .encabezado{
 
     width: 100%;
     height: 150px;
-    background-color: rgb(231, 231, 84);
+    background-color: rgb(50, 116, 238);
+    font-size: 50px;
+    text-align: center;
 }
 .menu{
 
     width: 100%;
     height: 100px;
-    background-color: rgb(200, 200, 57);
+    background-color: rgb(111, 160, 250);
 }
 .contenedor2{
 
     width: 100%;
     height: 1200px;
-    background-color: rgb(245, 245, 33);
+    background-color: rgb(22, 169, 236);
     display: flex;
 }
 .izquierdo{
 
     width: 20%;
     height: 1200px;
-    background-color: peru;
+    background-color: rgb(23, 66, 184);
 }
 .centro{
 
     width: 60%;
     height: 1200px;
-    background-color: white;
+    background-color: rgb(140, 230, 230);
 }
 .derecho{
 
     width: 20%;
     height: 1200px;
-    background-color: peru;
+    background-color: rgb(63, 77, 205);
 }
